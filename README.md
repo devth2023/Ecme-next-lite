@@ -2,7 +2,7 @@
 
 This is a lite version of Ecme - The Ultimate Next.js & TypeScript Web Template
 
-Full version: [demo](https://ecme-next.themenate.net/) | [download](https://themeforest.net/item/ecme-the-ultimate-react-tailwind-admin-template/54470284)
+Full version: [demo](https://ecme-next.themenate.net/) | [download](https://themeforest.net/item/ecme-nextjs-tailwind-admin-template-app-router/56475600)
 
 ## Prerequisites
 
