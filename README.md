@@ -26,5 +26,5 @@ To build the app for production run `npm run build`
 ### Documentation
 [documentation](https://ecme-next.themenate.net/guide/documentation/introduction)
 
-### Get [full version](https://themeforest.net/item/ecme-the-ultimate-react-tailwind-admin-template/54470284) to unclock all components & features
+### Get [full version](https://themeforest.net/item/ecme-nextjs-tailwind-admin-template-app-router/56475600) to unclock all components & features
 
