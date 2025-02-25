@@ -1,6 +1,6 @@
 {
   "name": "ecme-next",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
@@ -63,6 +63,7 @@
     "zustand": "^5.0.2"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.8",
     "@tailwindcss/typography": "^0.5.15",
     "@types/d3-fetch": "^3.0.7",
     "@types/d3-scale": "^4.0.8",
@@ -95,7 +96,7 @@
     "postcss": "^8.4.45",
     "postcss-nesting": "^13.0.0",
     "prettier": "^3.4.2",
-    "tailwindcss": "^3.4.10",
+    "tailwindcss": "^4.0.8",
     "typescript": "^5.6.2"
   },
   "overrides": {
