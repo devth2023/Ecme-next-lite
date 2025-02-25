@@ -15,9 +15,7 @@ const Simple = ({ children, content, ...rest }: SimpleProps) => {
                     <div>
                         {content}
                         {children
-                            ? // eslint-disable-next-line @typescript-eslint/no-explicit-any
-                              cloneElement(children as ReactElement<any>, {
-                                  contentClassName: 'text-center',
+                            ? cloneElement(children as ReactElement, {
                                   ...rest,
                               })
                             : null}
