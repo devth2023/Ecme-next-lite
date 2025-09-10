@@ -41,6 +41,7 @@
     "@fullcalendar/timegrid": "^6.1.15",
     "@hello-pangea/dnd": "^16.6.0",
     "@hookform/resolvers": "latest",
+    "@radix-ui/react-toast": "latest",
     "@tanstack/match-sorter-utils": "^8.19.4",
     "@tanstack/react-table": "^8.20.5",
     "@tanstack/react-virtual": "^3.11.2",
