@@ -1,0 +1,51 @@
+{
+  "common": {
+    "welcome": "ยินดีต้อนรับ",
+    "dashboard": "แดชบอร์ด",
+    "home": "หน้าหลัก",
+    "projects": "โครงการ",
+    "tasks": "งาน",
+    "team": "ทีม",
+    "settings": "การตั้งค่า",
+    "profile": "โปรไฟล์",
+    "logout": "ออกจากระบบ",
+    "login": "เข้าสู่ระบบ",
+    "signup": "สมัครสมาชิก",
+    "email": "อีเมล",
+    "password": "รหัสผ่าน",
+    "submit": "ส่ง",
+    "cancel": "ยกเลิก",
+    "save": "บันทึก",
+    "edit": "แก้ไข",
+    "delete": "ลบ",
+    "search": "ค้นหา",
+    "loading": "กำลังโหลด...",
+    "error": "เกิดข้อผิดพลาด",
+    "success": "สำเร็จ"
+  },
+  "dashboard": {
+    "title": "แดชบอร์ด Blife Healthy",
+    "subtitle": "ภาพรวมกิจกรรมและสถิติของคุณ",
+    "totalProjects": "โครงการทั้งหมด",
+    "activeTasks": "งานที่กำลังดำเนินการ",
+    "teamMembers": "สมาชิกในทีม",
+    "completionRate": "อัตราความสำเร็จ",
+    "recentActivity": "กิจกรรมล่าสุด",
+    "quickActions": "การดำเนินการด่วน",
+    "createProject": "สร้างโครงการใหม่",
+    "addTask": "เพิ่มงานใหม่",
+    "inviteTeam": "เชิญสมาชิกทีม",
+    "viewReports": "ดูรายงาน"
+  },
+  "auth": {
+    "signIn": "เข้าสู่ระบบ",
+    "signUp": "สมัครสมาชิก",
+    "forgotPassword": "ลืมรหัสผ่าน",
+    "resetPassword": "รีเซ็ตรหัสผ่าน",
+    "rememberMe": "จดจำฉัน",
+    "dontHaveAccount": "ยังไม่มีบัญชี?",
+    "alreadyHaveAccount": "มีบัญชีแล้ว?",
+    "signInWithGoogle": "เข้าสู่ระบบด้วย Google",
+    "signInWithGithub": "เข้าสู่ระบบด้วย GitHub"
+  }
+}

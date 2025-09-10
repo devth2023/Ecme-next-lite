@@ -1,0 +1,49 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "dashboard": "Dashboard",
+    "home": "Home",
+    "projects": "Projects",
+    "tasks": "Tasks",
+    "team": "Team",
+    "settings": "Settings",
+    "profile": "Profile",
+    "logout": "Logout",
+    "login": "Login",
+    "signup": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "dashboard": {
+    "title": "Welcome to Blife Healthy",
+    "subtitle": "Your health management dashboard",
+    "totalProjects": "Total Projects",
+    "activeTasks": "Active Tasks",
+    "teamMembers": "Team Members",
+    "completionRate": "Completion Rate",
+    "recentActivity": "Recent Activity",
+    "quickActions": "Quick Actions",
+    "createProject": "Create New Project",
+    "addTask": "Add Task",
+    "inviteTeam": "Invite Team Member",
+    "viewReports": "View Reports"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "forgotPassword": "Forgot Password",
+    "resetPassword": "Reset Password",
+    "signOut": "Sign Out",
+    "welcomeBack": "Welcome back",
+    "createAccount": "Create your account"
+  }
+}

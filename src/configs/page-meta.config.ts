@@ -1,12 +1,11 @@
-import { Metadata } from 'next'
+import type { Metadata } from "next"
 
 const pageMeta: Metadata = {
-    title: 'Ecme - The Ultimate Next & TypeScript Web Template',
-    description:
-        'Admin Template and Starter Kit with React, Tailwind Components and Next.js',
-    icons: {
-        icon: '/favicon.ico',
-    },
+  title: "Blife Healthy - แพลตฟอร์มสุขภาพครบวงจร",
+  description: "แพลตฟอร์มดิจิทัลสำหรับการดูแลสุขภาพและความเป็นอยู่ที่ดี พร้อมเครื่องมือครบครัน",
+  icons: {
+    icon: "/favicon.ico",
+  },
 }
 
 export default pageMeta
